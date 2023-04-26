@@ -1,5 +1,5 @@
 # CESI-PHP-Exo2-Password-Hashing
-Exo2
+Exo 1 (animal.php) - Exo2 (CRUD)
 
 ## Docker Compose
 - docker-compose up
