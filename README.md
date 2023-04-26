@@ -1,6 +1,8 @@
 # CESI-PHP-Exos-Apr2023
 Exo 1 (animal.php) - Exo2 (CRUD)
+---
 
+# Exo 2
 ## Docker Compose
 - docker-compose up
 - docker exec -ti $(docker ps --format '{{.Names}}' | grep mysql) bash
