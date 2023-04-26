@@ -1,4 +1,4 @@
-# CESI-PHP-Exo2-Password-Hashing
+# CESI-PHP-Exos-Apr2023
 Exo 1 (animal.php) - Exo2 (CRUD)
 
 ## Docker Compose
